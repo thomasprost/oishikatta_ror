@@ -1,24 +1,18 @@
-# README
+# OISHIKATTA (美味しかった)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+I like coding, discovering new stuffs and cooking. 
+I'm creating this app to save the recipes I make and like and in order to learn Ruby on Rails.
+Hopefully I'll learn and work with VueJs2 for the front.
+I'm not disrupting anything, it's just a good old cookery book :)
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version : 2.4
 
-* System dependencies
+* Rails version : 5.0.2
 
-* Configuration
+Development on Vagrant - Ubuntu 14.04 - mysql for now
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
+I'm using Jetbrains' RubyMine on Win7 with RubyMine linked to Vagrant's Rbenv and Mysql database.
 
 * ...
